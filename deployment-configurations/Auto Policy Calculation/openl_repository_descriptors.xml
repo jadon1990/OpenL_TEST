@@ -1,0 +1,10 @@
+
+<descriptors>
+    <descriptor>
+        <repositoryId>design</repositoryId>
+        <path>projects/Auto Policy Calculation</path>
+        <projectName>Auto Policy Calculation</projectName>
+        <branch>master</branch>
+        <projectVersion>9905f73abb9dd513c5bd94d5e51c116520ea9539</projectVersion>
+    </descriptor>
+</descriptors>
